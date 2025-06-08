@@ -9,17 +9,17 @@ I'm a software engineer with expertise in building scalable systems, optimizing 
 - **Backend:** Python, Django, Django Rest Framework (DRF), Rust  
 - **Frontend:** React, JavaScript  
 - **Cloud & DevOps:** Kubernetes, Docker, AWS  
-- **Databases:** PostgreSQL, MongoDB  
-- **Other:** Git, REST APIs, Microservices, CI/CD
+- **Databases:** PostgreSQL, MySQL
+- **Other:** Git, REST APIs, CI/CD
 
 ---
 
 ### 💼 **What I Do**
 
-- Built and scaled applications using **Django** and **DRF** for high-performance API-driven systems.
-- Contributed to open-source projects like **django-extensions** and **funstoryai babeldoc**.
-- Currently developing **Rust** applications for dynamic scaling in **Kubernetes** environments, with real-time performance optimizations.
-- Architecting cloud infrastructure to ensure **cost-effective resource utilization**.
+- Build and scale high-performance systems using **Django** and **DRF** for robust API solutions.
+- Develop efficient, scalable applications in **Rust** with a focus on real-time performance optimization.
+- Design and optimize cloud infrastructure, ensuring cost-effective resource management and scalability.
+- Work with **Kubernetes** to automate and streamline deployments, enhancing system reliability and performance.
 
 ---
 
@@ -28,15 +28,6 @@ I'm a software engineer with expertise in building scalable systems, optimizing 
 ![Pravin's Contribution Graph](https://github-readme-stats.vercel.app/api?username=PravinKamble123&count_private=true&show_icons=true&hide=prs&hide_title=true&theme=radical)
 
 ---
-
-### 📬 **Contact Me**
-
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 🔗 LinkedIn: [linkedin.com/in/pravinkamble123](https://linkedin.com/in/pravinkamble123)  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-
----
-
 ### 💬 **Let’s Connect!**
 
 Feel free to check out my repositories, fork them, or reach out for collaboration!
