@@ -10,7 +10,7 @@ I'm a software engineer with expertise in building scalable systems, optimizing 
 - **Frontend:** React, JavaScript  
 - **Cloud & DevOps:** Kubernetes, Docker, AWS  
 - **Databases:** PostgreSQL, MySQL
-- **Other:** Git, REST APIs, CI/CD
+- **Other:** Linux, Kernel, Git,**eBPF**, REST APIs, CI/CD
 
 ---
 
@@ -18,6 +18,7 @@ I'm a software engineer with expertise in building scalable systems, optimizing 
 
 - Build and scale high-performance systems using **Django** and **DRF** for robust API solutions.
 - Develop efficient, scalable applications in **Rust** with a focus on real-time performance optimization.
+- Dive deep into **eBPF** technology with Rust to build advanced security tools.
 - Design and optimize cloud infrastructure, ensuring cost-effective resource management and scalability.
 - Work with **Kubernetes** to automate and streamline deployments, enhancing system reliability and performance.
 
