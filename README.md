@@ -26,12 +26,12 @@ I'm a software engineer with expertise in building scalable systems, optimizing 
 
 ### 🛠️ **Languages I Use**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PravinKamble123&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p-r-a-v-i-n&layout=compact&theme=radical)
 
 
 ### 📊 **GitHub Stats & Contributions**
 
-![Pravin's Contribution Graph](https://github-readme-stats.vercel.app/api?username=PravinKamble123&count_private=true&show_icons=true&hide=prs&hide_title=true&theme=radical)
+![Pravin's Contribution Graph](https://github-readme-stats.vercel.app/api?username=p-r-a-v-i-n&count_private=true&show_icons=true&hide=prs&hide_title=true&theme=radical)
 
 ---
 ### 💬 **Let’s Connect!**
