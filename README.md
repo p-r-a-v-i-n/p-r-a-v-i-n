@@ -30,12 +30,9 @@ I'm a software engineer with expertise in building scalable systems, optimizing 
 
 
 ### 📊 **GitHub Stats & Contributions**
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=p-r-a-v-i-n&theme=github_dark)
+![Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p-r-a-v-i-n&theme=github_dark)
 
-![Pravin's Contribution Graph](https://github-readme-stats.vercel.app/api?username=p-r-a-v-i-n&count_private=true&show_icons=true&hide=prs&hide_title=true&theme=radical)
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p-r-a-v-in&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p-r-a-v-in&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p-r-a-v-in&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ---
 ### 💬 **Let’s Connect!**
 
