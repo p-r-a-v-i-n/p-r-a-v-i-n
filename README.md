@@ -24,11 +24,6 @@ I'm a software engineer with expertise in building scalable systems, optimizing 
 
 ---
 
-### 🛠️ **Languages I Use**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p-r-a-v-i-n&layout=compact&theme=radical)
-
-
 ### 📊 **GitHub Stats & Contributions**
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=p-r-a-v-i-n&theme=github_dark) ![Top languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p-r-a-v-i-n&theme=github_dark)
 ![Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p-r-a-v-i-n&theme=github_dark)
